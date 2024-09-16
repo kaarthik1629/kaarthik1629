@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-<img src="<iframe width="560" height="315" src="https://www.youtube.com/embed/6stlCkUDG_s?si=O2DzJR7tbF3HYBbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" alt="Snake animation" />
+
 
 ###
 https://github.com/user-attachments/assets/9f81f80b-10ec-406f-8a79-d8a90eba23ca
