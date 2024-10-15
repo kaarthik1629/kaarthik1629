@@ -33,7 +33,7 @@
   <a href="kaarthikdesigner1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/kaarthik-ar-108705327" target="_blank">
+  <a href="https://www.linkedin.com/in/kaarthik-ar-108705327" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
@@ -43,7 +43,12 @@
 
 <br clear="both">
 
-
-
 ###
-https://github.com/user-attachments/assets/9f81f80b-10ec-406f-8a79-d8a90eba23ca
+
+<div align="center">
+  <a href="https://kaarthik1629.github.io/" target="_blank" style="text-decoration: none; font-size: 24px; color: #0077B5; font-weight: bold; background-color: #f0f8ff; padding: 10px 20px; border-radius: 5px;">
+    Click Here to View My Portfolio
+  </a>
+</div>
+  </a>
+</div>
