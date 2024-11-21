@@ -1,4 +1,4 @@
-<h2 align="left">I am a Junior Game Developer with a solid foundation in Unity and C#, specializing in 3D and 2D game development. Proficient in building engaging gameplay mechanics, optimizing performance, and creating immersive player experiences. Experienced in coding, debugging, and collaborating with cross-functional teams to deliver polished projects. Passionate about game development, continuously learning new tools and technologies to stay ahead in the industry.</h2>
+<h2 align="left">I am focused on creating engaging solutions and specialize in .NET, ASP.NET, C#, and C++. I develop efficient code for impactful applications. With a strong passion for game development, I use my expertise in Unity to design and create immersive worlds, particularly in virtual and augmented reality experiences. My creativity and technical skills blend allowing me to craft engaging games and applications. I am eager to learn, innovate, and tackle challenges, always striving to connect cutting-edge technology with exceptional user experiences.</h2>
 
 ###
 
